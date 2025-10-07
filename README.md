@@ -1,7 +1,6 @@
 # 🛡️ T-Pot Honeypot on Microsoft Azure Cloud
 
-**Author:** Bhargav Pavan Sai Surisetti
-
+**Author:** Bhargav Pavan Sai Surisetti || 
 **Date:** 07 October 2025  
 ---
 
