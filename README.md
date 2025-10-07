@@ -24,9 +24,7 @@ The honeypot is deployed securely on a virtual machine within Azure, configured 
 
 ## 📂 Documentation
 All detailed setup steps, installation commands, configuration procedures, and screenshots are provided in the **project documentation**:  
-
-📄 [View Full Project Documentation (HONEYPOT.pdf)](./docs/HONEYPOT.pdf)  
-or  
+  
 📁 Navigate to the `/docs` folder inside this repository for markdown-based step-by-step guides.
 
 ---
